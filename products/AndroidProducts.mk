@@ -26,6 +26,8 @@
 # Change 'default' to match your theme name
 
 PRODUCT_MAKEFILES := \
+        $(LOCAL_DIR)/jeagoss_extblue_heroc.mk \
+        $(LOCAL_DIR)/jeagoss_extblue_hero.mk \
 	$(LOCAL_DIR)/jeagoss_extblue_dream_sapphire.mk \
 	$(LOCAL_DIR)/jeagoss_extblue_passion.mk \
 	$(LOCAL_DIR)/jeagoss_extblue_sholes.mk

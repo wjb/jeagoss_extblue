@@ -11,3 +11,5 @@
 add_lunch_combo jeagoss_extblue_dream_sapphire-eng
 add_lunch_combo jeagoss_extblue_passion-eng
 add_lunch_combo jeagoss_extblue_sholes-eng
+add_lunch_combo jeagoss_extblue_heroc-eng
+add_lunch_combo jeagoss_extblue_hero-eng
