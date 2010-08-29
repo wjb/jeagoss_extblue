@@ -13,6 +13,9 @@ add_lunch_combo jeagoss_extblue_dream_sapphire-eng
 add_lunch_combo jeagoss_extblue_espresso-eng
 add_lunch_combo jeagoss_extblue_hero-eng
 add_lunch_combo jeagoss_extblue_heroc-eng
+add_lunch_combo jeagoss_extblue_inc-eng
+add_lunch_combo jeagoss_extblue_liberty-eng
 add_lunch_combo jeagoss_extblue_passion-eng
 add_lunch_combo jeagoss_extblue_sholes-eng
 add_lunch_combo jeagoss_extblue_supersonic-eng
+add_lunch_combo jeagoss_extblue_vibrant-eng

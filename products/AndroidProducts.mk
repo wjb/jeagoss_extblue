@@ -31,6 +31,9 @@ PRODUCT_MAKEFILES := \
         $(LOCAL_DIR)/jeagoss_extblue_espresso.mk \
         $(LOCAL_DIR)/jeagoss_extblue_hero.mk \
         $(LOCAL_DIR)/jeagoss_extblue_heroc.mk \
+        $(LOCAL_DIR)/jeagoss_extblue_inc.mk \
+        $(LOCAL_DIR)/jeagoss_extblue_liberty.mk \
 	$(LOCAL_DIR)/jeagoss_extblue_passion.mk \
 	$(LOCAL_DIR)/jeagoss_extblue_sholes.mk \
-        $(LOCAL_DIR)/jeagoss_extblue_supersonic.mk
+        $(LOCAL_DIR)/jeagoss_extblue_supersonic.mk \
+        $(LOCAL_DIR)/jeagoss_extblue_vibrant.mk
