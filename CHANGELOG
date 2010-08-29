@@ -1,3 +1,6 @@
+0.0.15
+Removed drawables not used by froyo.  Thanks to Dave Id for pointing this out.
+
 0.0.14
 makefile fixes
 
