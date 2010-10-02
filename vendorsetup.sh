@@ -5,11 +5,17 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # Note: only change the name portion
 # function: add_lunch_combo cyanogen_theme_default-eng
-# 
+#
 #
 # Change 'default' to make your theme name.
+add_lunch_combo jeagoss_extblue_bravo-eng
 add_lunch_combo jeagoss_extblue_dream_sapphire-eng
+add_lunch_combo jeagoss_extblue_espresso-eng
+add_lunch_combo jeagoss_extblue_hero-eng
+add_lunch_combo jeagoss_extblue_heroc-eng
+add_lunch_combo jeagoss_extblue_inc-eng
+add_lunch_combo jeagoss_extblue_liberty-eng
 add_lunch_combo jeagoss_extblue_passion-eng
 add_lunch_combo jeagoss_extblue_sholes-eng
-add_lunch_combo jeagoss_extblue_heroc-eng
-add_lunch_combo jeagoss_extblue_hero-eng
+add_lunch_combo jeagoss_extblue_supersonic-eng
+add_lunch_combo jeagoss_extblue_vibrant-eng
